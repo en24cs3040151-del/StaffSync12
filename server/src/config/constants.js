@@ -1,0 +1,75 @@
+export const ROLES = {
+  HR: 'HR',
+  MANAGER: 'MANAGER',
+  EMPLOYEE: 'EMPLOYEE'
+};
+
+export const ACCOUNT_STATUS = {
+  ACTIVE: 'ACTIVE',
+  INACTIVE: 'INACTIVE'
+};
+
+export const EMPLOYMENT_STATUS = {
+  ACTIVE: 'ACTIVE',
+  INACTIVE: 'INACTIVE',
+  ON_LEAVE: 'ON_LEAVE',
+  TERMINATED: 'TERMINATED'
+};
+
+export const DEPARTMENTS = [
+  'Engineering',
+  'Human Resources',
+  'Sales',
+  'Marketing',
+  'Finance',
+  'Operations',
+  'Product'
+];
+
+export const ATTENDANCE_STATUS = {
+  PRESENT: 'PRESENT',
+  HALF_DAY: 'HALF_DAY',
+  LATE: 'LATE',
+  ABSENT: 'ABSENT'
+};
+
+export const LEAVE_TYPES = [
+  'ANNUAL',
+  'SICK',
+  'CASUAL',
+  'UNPAID',
+  'MATERNITY',
+  'PATERNITY'
+];
+
+export const LEAVE_STATUS = {
+  PENDING: 'PENDING',
+  APPROVED: 'APPROVED',
+  REJECTED: 'REJECTED',
+  CANCELLED: 'CANCELLED'
+};
+
+export const ANNOUNCEMENT_PRIORITIES = ['LOW', 'NORMAL', 'HIGH', 'URGENT'];
+
+export const ANNOUNCEMENT_AUDIENCES = ['ALL', 'DEPARTMENT', 'MANAGERS'];
+
+export const ANNOUNCEMENT_STATUS = {
+  DRAFT: 'DRAFT',
+  PUBLISHED: 'PUBLISHED',
+  ARCHIVED: 'ARCHIVED'
+};
+
+export const TRAINING_STATUS = {
+  UPCOMING: 'UPCOMING',
+  ONGOING: 'ONGOING',
+  COMPLETED: 'COMPLETED',
+  CANCELLED: 'CANCELLED'
+};
+
+export const NOTIFICATION_TYPES = {
+  LEAVE: 'LEAVE',
+  ATTENDANCE: 'ATTENDANCE',
+  ANNOUNCEMENT: 'ANNOUNCEMENT',
+  TRAINING: 'TRAINING',
+  SYSTEM: 'SYSTEM'
+};
