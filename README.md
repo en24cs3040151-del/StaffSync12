@@ -12,7 +12,7 @@
 ## Evaluation Links
 
 - **Live Demo URL:** [https://staffsync-demo.example.com](https://staffsync-demo.example.com) *(Replace with your live deployed URL)*
-- **GitHub Repository URL:** [https://github.com/your-username/staffsync]([https://github.com/sawanshivhare75/StaffSync]) *(Replace with your GitHub repository URL)*
+- **GitHub Repository URL:** [https://github.com/sawanshivhare75/staffsync]) *(Replace with your GitHub repository URL)*
 
 ---
 
