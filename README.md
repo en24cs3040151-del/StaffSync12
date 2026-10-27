@@ -11,7 +11,7 @@
 
 ## Evaluation Links
 
-- **Live Demo URL:** [https://staffsync-demo.example.com](https://staffsync-demo.example.com) *(Replace with your live deployed URL)*
+- **Live Demo URL:** [https://staffsync-demo.example.com](https://staff-sync-vert.vercel.app ) *(Replace with your live deployed URL)*
 - **GitHub Repository URL:** [https://github.com/sawanshivhare75/staffsync]) *(Replace with your GitHub repository URL)*
 
 ---
